@@ -1,0 +1,455 @@
+Using pre-set license
+Built from '2021.3/release' branch; Version is '2021.3.28f1 (232e59c3f087) revision 2305625'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'tr' Physical Memory: 16310 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.28f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/Firel/Documents/GitHub/CubeSurfers-Clone/CubeSurfersClone
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+52192
+Successfully changed project path to: C:/Users/Firel/Documents/GitHub/CubeSurfers-Clone/CubeSurfersClone
+C:/Users/Firel/Documents/GitHub/CubeSurfers-Clone/CubeSurfersClone
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [16344] Host "[IP] 192.168.1.16 [Port] 0 [Flags] 2 [Guid] 991298445 [EditorId] 991298445 [Version] 1048832 [Id] WindowsEditor(7,furkan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [16344] Host "[IP] 192.168.1.16 [Port] 0 [Flags] 2 [Guid] 991298445 [EditorId] 991298445 [Version] 1048832 [Id] WindowsEditor(7,furkan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 54.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.28f1 (232e59c3f087)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Firel/Documents/GitHub/CubeSurfers-Clone/CubeSurfersClone/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6600 XT (ID=0x73ff)
+    Vendor:   ATI
+    VRAM:     8146 MB
+    Driver:   31.0.14037.17019
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56680
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.004948 seconds.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 176 ms
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 53.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.640 seconds
+Domain Reload Profiling:
+	ReloadAssembly (641ms)
+		BeginReloadAssembly (57ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (0ms)
+		EndReloadAssembly (515ms)
+			LoadAssemblies (56ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (68ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (17ms)
+			SetupLoadedEditorAssemblies (393ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (241ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (53ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (65ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004311 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Firel\Documents\GitHub\CubeSurfers-Clone\CubeSurfersClone\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Firel\Documents\GitHub\CubeSurfers-Clone\CubeSurfersClone\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.671 seconds
+Domain Reload Profiling:
+	ReloadAssembly (671ms)
+		BeginReloadAssembly (81ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (517ms)
+			LoadAssemblies (60ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (166ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (236ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (55ms)
+				ProcessInitializeOnLoadAttributes (145ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3058 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (46.7 KB). Loaded Objects now: 3524.
+Memory consumption went from 113.6 MB to 113.6 MB.
+Total: 2.237300 ms (FindLiveObjects: 0.142300 ms CreateObjectMapping: 0.077600 ms MarkObjects: 1.970700 ms  DeleteObjects: 0.046100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 23390.496761 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cliff_Rock_Surface_21/Cliff_Rock_Surface_21_Albedo.png
+  artifactKey: Guid(6fd39161d2c1b304083bc22f562fe5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cliff_Rock_Surface_21/Cliff_Rock_Surface_21_Albedo.png using Guid(6fd39161d2c1b304083bc22f562fe5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1712535f9b27be61b65d56f8d5033a') in 0.078057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.130432 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Coal_Surface_2/Coal_Surface_2_Albedo.png
+  artifactKey: Guid(352385915077e3440b4a81260e422fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Coal_Surface_2/Coal_Surface_2_Albedo.png using Guid(352385915077e3440b4a81260e422fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '824800724d613619c9e8fe2557ab34f3') in 0.016533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Coal_Surface_2/Coal_Surface_2_Normal.png
+  artifactKey: Guid(eb2bbbab1e7bd7b42a683b0d78edc7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Coal_Surface_2/Coal_Surface_2_Normal.png using Guid(eb2bbbab1e7bd7b42a683b0d78edc7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9acc9b71aa4980864b9eae828c95806') in 0.018339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Coal_Surface_2/Coal_Surface_2_Roughness.png
+  artifactKey: Guid(1d4e4d963dec7c54cb8d16555c2e327b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Coal_Surface_2/Coal_Surface_2_Roughness.png using Guid(1d4e4d963dec7c54cb8d16555c2e327b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bca6a4d5cfb7e48672695bb0b7e2758b') in 0.011215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.221768 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cracked_Asphalt_5/Cracked_Asphalt_5_Albedo.png
+  artifactKey: Guid(4d0645c44b29f63448dc7022570086b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cracked_Asphalt_5/Cracked_Asphalt_5_Albedo.png using Guid(4d0645c44b29f63448dc7022570086b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf125f9d4443bce31ab64dcbc12d634a') in 0.015818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cracked_Asphalt_5/Cracked_Asphalt_5_AO.png
+  artifactKey: Guid(9c9807bd38bd13849a5a834f60d61351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cracked_Asphalt_5/Cracked_Asphalt_5_AO.png using Guid(9c9807bd38bd13849a5a834f60d61351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23b5b220ed379f88f2cb58be264bb97c') in 0.013404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cracked_Asphalt_5/Cracked_Asphalt_5_Height.png
+  artifactKey: Guid(d656cb215e1024a43a19cf36d8e49429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cracked_Asphalt_5/Cracked_Asphalt_5_Height.png using Guid(d656cb215e1024a43a19cf36d8e49429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbfe010a5d9f272d6d3c9465bc786245') in 0.012864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.619355 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cracked_Ice_4/Cracked_Ice_4_Albedo.png
+  artifactKey: Guid(a2a887740e2d1c7499a07ae6becfa69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cracked_Ice_4/Cracked_Ice_4_Albedo.png using Guid(a2a887740e2d1c7499a07ae6becfa69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c6a79309038fd627c83fb2fe5e1f8e') in 0.016144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cracked_Ice_4/Cracked_Ice_4_Height.png
+  artifactKey: Guid(de0d10141886b464b817ca4fd1cf3641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cracked_Ice_4/Cracked_Ice_4_Height.png using Guid(de0d10141886b464b817ca4fd1cf3641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1597311c7362cb20cb511e3395d6ef3') in 0.014394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cracked_Ice_4/Cracked_Ice_4_Roughness.png
+  artifactKey: Guid(fd78c8187043b714c9b371fc1f823b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Cracked_Ice_4/Cracked_Ice_4_Roughness.png using Guid(fd78c8187043b714c9b371fc1f823b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '609493901941de002dcb436fa86d536d') in 0.013340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.955220 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Crystal_Surface_1/Crystal_Surface_1_Albedo.png
+  artifactKey: Guid(4112b3d89a4e7f947806ad2785aae975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Crystal_Surface_1/Crystal_Surface_1_Albedo.png using Guid(4112b3d89a4e7f947806ad2785aae975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05209623be1368360acaecf05f55536e') in 0.018918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Crystal_Surface_1/Crystal_Surface_1_Metallic.png
+  artifactKey: Guid(7eee8ddfea1c4bb4e909ce6da6a056e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Crystal_Surface_1/Crystal_Surface_1_Metallic.png using Guid(7eee8ddfea1c4bb4e909ce6da6a056e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ccdec511f71ae70e00febc51a1151b') in 0.014278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Crystal_Surface_1/Crystal_Surface_1_AO.png
+  artifactKey: Guid(f1da6b416cf0cf94daf24e1428b6548d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Crystal_Surface_1/Crystal_Surface_1_AO.png using Guid(f1da6b416cf0cf94daf24e1428b6548d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1641b30740d5fff099f6edb57eab7a9') in 0.013654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.872328 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Dirty_Snow_2/Dirty_Snow_2_Albedo.png
+  artifactKey: Guid(e30bb4af423b8b147a8e9e7833ac6a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Dirty_Snow_2/Dirty_Snow_2_Albedo.png using Guid(e30bb4af423b8b147a8e9e7833ac6a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5c609209b75898d319c9c29680d9409') in 0.017863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Dirty_Snow_2/Dirty_Snow_2_Normal.png
+  artifactKey: Guid(9d0080d028773bd41af3ed0fd4e5752b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Dirty_Snow_2/Dirty_Snow_2_Normal.png using Guid(9d0080d028773bd41af3ed0fd4e5752b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d9c9d2ee3b1eb4c98341e0f97def779') in 0.015331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Dirty_Snow_2/Dirty_Snow_2_Metallic.png
+  artifactKey: Guid(499407c85a2566b48ad8cae1b16b8d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Dirty_Snow_2/Dirty_Snow_2_Metallic.png using Guid(499407c85a2566b48ad8cae1b16b8d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ab3dc578ae4ce8a0d4cf31e530af04') in 0.013515 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.534782 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Forest_Ground_38/Forest_Ground_38_Albedo.png
+  artifactKey: Guid(846a26185a354b64abcb7fb6d85af414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Forest_Ground_38/Forest_Ground_38_Albedo.png using Guid(846a26185a354b64abcb7fb6d85af414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de05c38c559297910a0dd2958f8e6fd0') in 0.014020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Forest_Ground_38/Forest_Ground_38_Mask.png
+  artifactKey: Guid(25737c0f88cb9194ab8a9db523b572e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Forest_Ground_38/Forest_Ground_38_Mask.png using Guid(25737c0f88cb9194ab8a9db523b572e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad47a9b350543ae63e7b0123f74b5d5c') in 0.014100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Forest_Ground_38/Forest_Ground_38_AO.png
+  artifactKey: Guid(a179df1c2846ce343a9c39430e41de62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Forest_Ground_38/Forest_Ground_38_AO.png using Guid(a179df1c2846ce343a9c39430e41de62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '076395dfaf5ef0eff1107715a8801a0e') in 0.013705 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.449065 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Fur_3/Fur_3_Albedo.png
+  artifactKey: Guid(07692dcd7d44c9c4995d08b14803d9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Fur_3/Fur_3_Albedo.png using Guid(07692dcd7d44c9c4995d08b14803d9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7d986148505e52e3c41c5561b0bc5d') in 0.015610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Fur_3/Fur_3_AO.png
+  artifactKey: Guid(9757d96a52bc6ca4ab8aae8b33bf28c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Fur_3/Fur_3_AO.png using Guid(9757d96a52bc6ca4ab8aae8b33bf28c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e4485512859f1e92704f41d5fb5b2d0') in 0.013480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Fur_3/Fur_3_Normal.png
+  artifactKey: Guid(4feed22214495e94dac73f08d38b4d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Fur_3/Fur_3_Normal.png using Guid(4feed22214495e94dac73f08d38b4d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a020fea2573a0e375bec5737f3f9b4b') in 0.015217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.642890 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Grass_37/Grass_37_Albedo.png
+  artifactKey: Guid(910e53a3219dd48409cf12706e756862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Grass_37/Grass_37_Albedo.png using Guid(910e53a3219dd48409cf12706e756862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3934cb91191103e6150afb1ae10e3f6') in 0.017553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Grass_37/Grass_37_Metallic.png
+  artifactKey: Guid(b139783913a7a1b47aca8f9876606d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Grass_37/Grass_37_Metallic.png using Guid(b139783913a7a1b47aca8f9876606d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd57746f1268b4704f63cb3cfbbac11be') in 0.013961 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Grass_37/Grass_37_Normal.png
+  artifactKey: Guid(19bdb1d041a89e044b2a3411604642ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Grass_37/Grass_37_Normal.png using Guid(19bdb1d041a89e044b2a3411604642ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c77fdd808c508dbb02329f7217e9ae6') in 0.014124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.539462 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Lava_And_Pavement_2/Lava_And_Pavement_2_Albedo.png
+  artifactKey: Guid(6de5a9bbae327f948882bb47bd8ba940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Lava_And_Pavement_2/Lava_And_Pavement_2_Albedo.png using Guid(6de5a9bbae327f948882bb47bd8ba940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c23683228c691f4300c6a29404592f') in 0.014980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Lava_And_Pavement_2/Lava_And_Pavement_2_Roughness.png
+  artifactKey: Guid(e7d27bdcfa6e94c4ca8f4d2404aecf01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Lava_And_Pavement_2/Lava_And_Pavement_2_Roughness.png using Guid(e7d27bdcfa6e94c4ca8f4d2404aecf01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16c4a80d03893c0ce63d892eb9003f0') in 0.012694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Lava_And_Pavement_2/Lava_And_Pavement_2_AO.png
+  artifactKey: Guid(6ed86b3c5a41a79478bd428068fe3e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Lava_And_Pavement_2/Lava_And_Pavement_2_AO.png using Guid(6ed86b3c5a41a79478bd428068fe3e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3078bbf23c5a8c7cb5a796c7bc79804d') in 0.012251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.013397 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Marble_Surface_20/Marble_Surface_20_Albedo.png
+  artifactKey: Guid(144b306a090efb84aa3498771f319a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Marble_Surface_20/Marble_Surface_20_Albedo.png using Guid(144b306a090efb84aa3498771f319a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb6f5e149ed686ae4ad467d42ea5692d') in 0.017773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Marble_Surface_20/Marble_Surface_20_Normal.png
+  artifactKey: Guid(3c8c941f8128b214f82ccb93290d0284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Marble_Surface_20/Marble_Surface_20_Normal.png using Guid(3c8c941f8128b214f82ccb93290d0284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7e617ac1f4d0863e2a6d937b2176c1') in 0.016376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Marble_Surface_20/Marble_Surface_20_Mask.png
+  artifactKey: Guid(1dfa968e5e242204490c4cd7801d730a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Marble_Surface_20/Marble_Surface_20_Mask.png using Guid(1dfa968e5e242204490c4cd7801d730a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8039ac2e0681451a0667cb95a14f4a2') in 0.013795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.532696 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Muddy_Cracked_Sand_6/Muddy_Cracked_Sand_6_Albedo.png
+  artifactKey: Guid(61d8b2642351fc04781e358c08d8c0c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Muddy_Cracked_Sand_6/Muddy_Cracked_Sand_6_Albedo.png using Guid(61d8b2642351fc04781e358c08d8c0c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d958ae7ba2c8449d91ad5ef08a34f91') in 0.012903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Muddy_Cracked_Sand_6/Muddy_Cracked_Sand_6_Height.png
+  artifactKey: Guid(ccafef53f98babf40baba0cc200e066d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Muddy_Cracked_Sand_6/Muddy_Cracked_Sand_6_Height.png using Guid(ccafef53f98babf40baba0cc200e066d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb90cf69b2af94409da49a09e840be75') in 0.013633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Muddy_Cracked_Sand_6/Muddy_Cracked_Sand_6_Normal.png
+  artifactKey: Guid(43a8f93c093f6da49808abc2079a9817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Muddy_Cracked_Sand_6/Muddy_Cracked_Sand_6_Normal.png using Guid(43a8f93c093f6da49808abc2079a9817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '918fd6c6fbe9f68d5d652a0b3bf47e33') in 0.013770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.954949 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Pavement_7/Pavement_7_Albedo.png
+  artifactKey: Guid(2c2c20779f196ec4f8c598547c19cb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Pavement_7/Pavement_7_Albedo.png using Guid(2c2c20779f196ec4f8c598547c19cb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6daf6393b9d18700171f98f8b95a142') in 0.014810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Pavement_7/Pavement_7_AO.png
+  artifactKey: Guid(29e25a8a54857b64ab091ef868e574d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Pavement_7/Pavement_7_AO.png using Guid(29e25a8a54857b64ab091ef868e574d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61eab2a39ce54c3e4647fcf3ff3888c') in 0.014829 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Pavement_7/Pavement_7_Height.png
+  artifactKey: Guid(00ad158c9ada0da48be4ec1c27480622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Pavement_7/Pavement_7_Height.png using Guid(00ad158c9ada0da48be4ec1c27480622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c18109dbe0b63a34a3964135241787c') in 0.014686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.992517 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Planks_Wood_16/Planks_Wood_16_Albedo.png
+  artifactKey: Guid(b6c9087391f197c409d0b79d433220c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Planks_Wood_16/Planks_Wood_16_Albedo.png using Guid(b6c9087391f197c409d0b79d433220c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b0752b008408737765a57cc4a5c05a') in 0.014730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Planks_Wood_16/Planks_Wood_16_AO.png
+  artifactKey: Guid(87375f1c4fb1e86409d4650ba1b367ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Planks_Wood_16/Planks_Wood_16_AO.png using Guid(87375f1c4fb1e86409d4650ba1b367ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531d9eb37fa042201de11d9498c1a16d') in 0.011765 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Planks_Wood_16/Planks_Wood_16_Roughness.png
+  artifactKey: Guid(19200b3c0133f3d4eab595a6b7dede7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Planks_Wood_16/Planks_Wood_16_Roughness.png using Guid(19200b3c0133f3d4eab595a6b7dede7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e20fad3a1ad48e4e7b13c37ed634222b') in 0.012492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.999255 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Rippled_Sand_2/Rippled_Sand_2_Albedo.png
+  artifactKey: Guid(592b3c13ca2a2ab46b678402d9f85ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Rippled_Sand_2/Rippled_Sand_2_Albedo.png using Guid(592b3c13ca2a2ab46b678402d9f85ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '662091e3c3ddad384784326f5998335c') in 0.014027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Rippled_Sand_2/Rippled_Sand_2_AO.png
+  artifactKey: Guid(ed42eb536aa04544c8e30d56f5fee177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Rippled_Sand_2/Rippled_Sand_2_AO.png using Guid(ed42eb536aa04544c8e30d56f5fee177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd25466304943554e927ce9f0a5690fb') in 0.015689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Rippled_Sand_2/Rippled_Sand_2_Height.png
+  artifactKey: Guid(96478242ecf35a446be7d176731fdf5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Rippled_Sand_2/Rippled_Sand_2_Height.png using Guid(96478242ecf35a446be7d176731fdf5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832c2ca49716abed4de6306566c0386c') in 0.015006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.698150 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Rocky_Dirt_2/Rocky_Dirt_2_Albedo.png
+  artifactKey: Guid(8b1d20f6985bdee43b8ac257fdfaf324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Rocky_Dirt_2/Rocky_Dirt_2_Albedo.png using Guid(8b1d20f6985bdee43b8ac257fdfaf324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd89b0f9faf1da8139c16f2c303fa05a9') in 0.018637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Rocky_Dirt_2/Rocky_Dirt_2_Metallic.png
+  artifactKey: Guid(aa87b49b4125306458d007a38ff357d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Rocky_Dirt_2/Rocky_Dirt_2_Metallic.png using Guid(aa87b49b4125306458d007a38ff357d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c9936371019d1428891725553820306') in 0.013809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Rocky_Dirt_2/Rocky_Dirt_2_Roughness.png
+  artifactKey: Guid(baa0db422578dec46ac15602ee8890d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Game Buffs/Free Stylized Textures/Textures/Rocky_Dirt_2/Rocky_Dirt_2_Roughness.png using Guid(baa0db422578dec46ac15602ee8890d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb62eda12c2212e9ef33abd92ac9caf') in 0.012626 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -7,6 +7,7 @@ public class pickUpCube : MonoBehaviour
     bool toplandiMi; // bir kere alýnan bir daha alýnmasýn diye kontrol
     int index;  // toplama pozisyonu yüksekliðini belirtecek
     public PickUpperCube upperPick;
+    
 
     void Start()
     {
@@ -29,10 +30,19 @@ public class pickUpCube : MonoBehaviour
     {
         if (other.gameObject.tag == "engel")
         {
+            upperPick.hp--;
             upperPick.YukseklikAzalt();
             transform.parent = null;
             GetComponent<BoxCollider>().enabled = false;
             other.GetComponent<BoxCollider>().enabled = false;
+            if (upperPick.hp == 0)
+            {
+                upperPick.hp = -1;
+                Time.timeScale = 0.0f;
+
+            }
+
+
         }
     }
 

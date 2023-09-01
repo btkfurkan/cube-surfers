@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    
 
     public GameObject player;
+ 
 
     [SerializeField]
     private float dikeyHiz;
@@ -25,12 +27,16 @@ public class PlayerController : MonoBehaviour
 
         OyuncuHareket();
 
+
     }
 
     void OyuncuHareket()
     {
-        float horizontalInput = Input.GetAxis("Horizontal") * yatayHiz * Time.deltaTime;
+       
+            float horizontalInput = Input.GetAxis("Horizontal") * yatayHiz * Time.deltaTime;
 
-        player.transform.Translate(horizontalInput, 0, dikeyHiz * Time.deltaTime);
+            player.transform.Translate(horizontalInput, 0, dikeyHiz * Time.deltaTime);
+
     }
+   
 }
